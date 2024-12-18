@@ -4,16 +4,16 @@ The **Chat Demo** is a very simple chat application based on MQTT.Cool.
 
 ## Live Demo
 
-[![Live Demo](screen-large.gif)](https://demos.mqtt.cool/chat)
+[![Live Demo](screen-large.gif)](https://demos.lightstreamer.com/chat-mqtt)
 
-### [![](http://demos.mqtt.cool/resources/play.png) View live demo](https://demos.mqtt.cool/chat)
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](https://demos.lightstreamer.com/chat-mqtt)
 
 
 ## Details
 
 The **Chat Demo** implements an extremely simple chat application, which
 shows a basic usage of the
-*[MQTT.Cool Web Client API](https://mqtt.cool/docs/web-client-sdk/api/index.html)*
+*[MQTT.Cool Web Client API](https://lightstreamer.com/mqttcool/web-client-sdk/2.0.0/api/index.html)*
 to handle communications with MQTT.Cool. All the users connected to the page can
 exchange messages, therefore launch multiple instances of the demo, possibly on
 different machines, to appreciate the message broadcast capability.
@@ -66,7 +66,7 @@ start.
 
 ## See Also
 
-* [Check out all other demos on MQTT.Cool site](https://mqtt.cool/demos)
+* [Check out all other demos on MQTT.Cool site](https://demos.lightstreamer.com/?p=mqttcool)
 
 ## MQTT.Cool Compatibility Notes
 
